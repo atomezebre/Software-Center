@@ -1,0 +1,104 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5083FF11-5C25-44CF-8E4B-A6EFAF685081",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "DD06680C-8FD6-4066-8B82-BB568360DEC7"
+    },
+    {
+      "class": "bitmap",
+      "id": "211504CA-7F3B-4CB0-8554-6FE74A97392A"
+    },
+    {
+      "class": "bitmap",
+      "id": "070FBFA2-10AF-44C7-89D8-61CFBB46E627"
+    },
+    {
+      "class": "artboard",
+      "id": "B322F4D4-E16F-49A9-B0F3-048D90DA41D3"
+    },
+    {
+      "class": "artboard",
+      "id": "66A4C2CB-FAC5-4F48-8F43-A6E41EF912CC"
+    },
+    {
+      "class": "text",
+      "id": "4F3D7974-B9B9-492F-9995-D49D88E9E998"
+    },
+    {
+      "class": "artboard",
+      "id": "C100D478-C5B4-480C-85CA-A7B10049E94D"
+    },
+    {
+      "class": "artboard",
+      "id": "CE7300D8-937A-4DB9-B1F4-30C895CBFAA2"
+    },
+    {
+      "class": "artboard",
+      "id": "C7A6B783-9B96-41D3-9B24-7D320820E060"
+    },
+    {
+      "class": "artboard",
+      "id": "14A85075-A3A7-4F5F-AC60-A2DDA07D6124"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "io.proto.overflow-test1": {
+      "docUUID": "B8FED361-93F2-4B15-BF13-2AE9FC5EF9FA"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
